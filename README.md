@@ -32,7 +32,7 @@ Me chamo Pedro Mndes, tenho 20 anos e sou natural de Recife-PE. Estou cursando c
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroMendesMacedo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -40,7 +40,7 @@ Me chamo Pedro Mndes, tenho 20 anos e sou natural de Recife-PE. Estou cursando c
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMendesMacedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
