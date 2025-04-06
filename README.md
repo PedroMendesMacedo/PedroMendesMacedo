@@ -11,7 +11,8 @@ Me chamo Pedro Mndes, tenho 20 anos e sou natural de Recife-PE. Estou cursando c
   
 </div>
 
----
+#
+
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block">
   
@@ -22,7 +23,7 @@ Me chamo Pedro Mndes, tenho 20 anos e sou natural de Recife-PE. Estou cursando c
   
 </div>
 
----
+#
 
 
 ### 📊 Estatísticas
