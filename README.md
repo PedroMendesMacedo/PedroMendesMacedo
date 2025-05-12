@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Hello World
 
-Me chamo Pedro Mndes, tenho 20 anos e sou natural de Recife-PE. Estou cursando ciência da computação na Universidade Católica de Pernambuco (UNICAP). Sou apaixonado por programação e robótica, e acredito que a tecnologia tem o poder de transformar vidas e conectar pessoas. Almejo construir uma carreira internacional, atuando na área de tecnologia e expandindo meus conhecimentos em um ambiente global.
+Me chamo Pedro Mendes, tenho 20 anos e sou natural de Recife-PE. Estou cursando ciência da computação na Universidade Católica de Pernambuco (UNICAP). Sou apaixonado por programação e robótica, e acredito que a tecnologia tem o poder de transformar vidas e conectar pessoas. Almejo construir uma carreira internacional, atuando na área de tecnologia e expandindo meus conhecimentos em um ambiente global.
 
 <div> 
 
